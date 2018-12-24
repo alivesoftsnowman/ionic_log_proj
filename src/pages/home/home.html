@@ -1,0 +1,11 @@
+<ion-content padding>
+  <div class="mobile_div">
+    <img class="log_img" src="assets/imgs/log_icon.png" width="40%" height="25%">
+    <form class="form_style"><br>
+      <input type="email" name="firstname" value="" placeholder="Email" [(ngModel)]="userEmail"><br>
+      <input type="password" name="lastname" value="" placeholder="Password" [(ngModel)]="userPwd"><br><br>
+    </form>
+    <button class="login_btn" (click)="login()">Login</button><br>
+    <button class="create_btn" (click)="CreateAccount()">Create Acount</button>
+  </div>
+</ion-content>

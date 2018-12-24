@@ -1,0 +1,85 @@
+.mobile_div{
+    background-color:#f4f1f1;
+    width : 300px;
+    height: 505px;
+}
+.border_color{
+    color: #adadad
+    
+}
+.log_img{
+    margin-top: 20%; 
+    margin-left: 30%;
+}
+.form_style{
+    margin-top: 10%;
+    margin-left: 15%;
+    width:70%;
+}
+.second_page_form{
+    margin-left: 15%;
+    width:70%;
+}
+.login_btn{
+    margin-left: 15%;
+    margin-top: 5%;
+    height: 8%;
+    width: 70%;
+    line-height: 8%;
+    padding: 0px;
+    background-color: #3dd9c4;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 30px;
+    border: none;
+}
+
+.create_btn{
+    margin-left: 15%;
+    margin-top: 5%;
+    height: 8%;
+    width: 70%;
+    padding: 0px;
+    background-color:white;
+    border: none;
+    color: #adadad;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 30px;
+    border: none;
+}
+input[type=text],input[type=email],input[type=password] {
+    width: 100%;
+    height: 8%;
+    margin-top:5%;
+    background-position: 5px 5px; 
+    padding-left: 40px;
+    color: #adadad;
+    border-radius: 30px;
+    border : 2px solid #adadad;
+  }
+  .SignUp{
+      
+    margin-left: 15%;
+    margin-top: 10%;
+    height: 8%;
+    width: 70%;
+    line-height: 8%;
+    padding: 0px;
+    background-color: #3dd9c4;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 30px;
+    border: none;
+  }
+  p{
+      margin-top:8%;
+      font-size: 20px;
+      text-align: center;    }
